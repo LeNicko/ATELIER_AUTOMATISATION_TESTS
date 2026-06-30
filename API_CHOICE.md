@@ -1,6 +1,6 @@
 # API Choice
 
-- Étudiant :
+- Étudiant : Nico
 - API choisie : Agify
 - URL base : https://api.agify.io?name=michael
 - Documentation officielle / README :
